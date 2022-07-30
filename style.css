@@ -43,3 +43,7 @@ body{
 .faq-hm{
     margin-top: 130px;
 }
+
+.company{
+    justify-content: space-around
+}
