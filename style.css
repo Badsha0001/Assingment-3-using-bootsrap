@@ -47,3 +47,6 @@ body{
 .company{
     justify-content: space-around
 }
+.bg-color{
+    background-color: black;
+}
